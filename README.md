@@ -1,7 +1,7 @@
 # 🚀 Chat App Deployment Using Kubernetes 🛠️
 
 ## 📌 Overview
-This project aims to provide a deployed chat application using Kubernetes. The application consists of a frontend, backend, and a MongoDB database, all orchestrated within a Kubernetes Minikube cluster.
+This project aims to provide a deployed 3-tier chat application using Kubernetes. The application consists of a frontend, backend, and a MongoDB database, all orchestrated within a Kubernetes Minikube cluster.
 
 ## ✅ Prerequisites
 - ⚡ Kubernetes Minikube cluster set up and configured
